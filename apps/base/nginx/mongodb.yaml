@@ -6,9 +6,9 @@ metadata:
 spec:
   chart:
     spec:
-      chart: mongodb
+      chart: mongodb-10.6.5
       sourceRef:
         kind: HelmRepository
         name: bitnami
   interval: 1m0s
-  releaseName: mongodb
+  releaseName: mongodb-10.6.5
