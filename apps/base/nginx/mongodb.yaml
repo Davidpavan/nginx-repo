@@ -10,5 +10,6 @@ spec:
       sourceRef:
         kind: HelmRepository
         name: bitnami
+      version: 10.31.1
   interval: 1m0s
-  releaseName: mongodb-10.31.1
+  releaseName: mongodb-10.31.1-beta
